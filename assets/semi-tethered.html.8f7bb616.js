@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-15c8a229","path":"/en_US/jailbreak/checkra1n/include/semi-tethered.html","title":"","lang":"en_US","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1638671858000,"contributors":[{"name":"emiyl","email":"me@emiyl.com","commits":2}]},"filePathRelative":"en_US/jailbreak/checkra1n/include/semi-tethered.md"}');export{e as data};
